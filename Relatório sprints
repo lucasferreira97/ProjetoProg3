@@ -1,0 +1,15 @@
+Primeira Sprint:
+- criar pagina HTML/CSS para abrigar o game
+- canvas
+- barrinhas de jogador
+- lógicas para movimento
+- limitações de movimento na tela canvas
+Objetivos: Completados!
+
+Segunda Sprint:
+- adicionar lógica para a bolinha
+- adicionar física para quando a bolinha atingir as barrinhas ou o canto da tela
+- criar script Player vs Computador
+- adicionar scores
+Objetivos: Em Andamento!
+
