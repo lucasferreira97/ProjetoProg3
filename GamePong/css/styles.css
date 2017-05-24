@@ -20,3 +20,42 @@
 #body {
     background-size: auto;
 }
+
+#score1 {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background-color: black;
+	position: absolute;
+	margin-top: -10%;
+	margin-left: 33%;
+}
+
+#score2 {
+	width: 100px;
+	height: 100px;
+	float: right;
+	background-color: black;
+	margin-top: -40%;
+	margin-right: 15%;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+	margin-top: -1px;
+}
+
+#pontop1{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: -8px;
+}
+
+#pontop2{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: -8px;
+}
